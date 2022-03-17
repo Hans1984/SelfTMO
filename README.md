@@ -1,4 +1,5 @@
 # SelfTMO
+This is the code of EG 22 paper: Learning a self-supervised tone mapping operator via feature contrast masking loss
 
 ## Environment Configuration
 conda env create -f environment.yaml
