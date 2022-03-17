@@ -12,11 +12,10 @@ Down load the pre-trained VGG
 ```bash
 python selftmo.py 
 ```
-** You can change the 'data_dir' to your own testing images path
+You can change the 'data_dir' to your own testing images path
 
 ## offline testing (Fast version)
 ```bash
 python selftmo_offline.py
 ```
-
-** You can change the 'im_dir' to your wown testing images path
+You can change the 'im_dir' to your wown testing images path
