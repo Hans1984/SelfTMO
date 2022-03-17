@@ -1,0 +1,2 @@
+model_checkpoint_path: "/HPS/BRDF2/work/chao/ITM/tm_training_all_new_offfline_unet_crop_resize_gamma_05/ckpt/ckpt_sep-569100"
+all_model_checkpoint_paths: "/HPS/BRDF2/work/chao/ITM/tm_training_all_new_offfline_unet_crop_resize_gamma_05/ckpt/ckpt_sep-569100"
