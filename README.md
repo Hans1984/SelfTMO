@@ -7,7 +7,7 @@ conda env create -f environment.yaml
 ```
 
 ## Online Training & Testing
-Down load the pre-trained VGG
+Download the pre-trained VGG
 - download VGG weights [VGG](https://drive.google.com/file/d/1C4VJTAyNjDcc2tQwRUkZIwLPKEiClVVl/view?usp=sharing)
 ```bash
 python selftmo.py 
