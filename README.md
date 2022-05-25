@@ -18,4 +18,4 @@ You can change the 'data_dir' to your own testing images path
 ```bash
 python selftmo_offline.py
 ```
-You can change the 'im_dir' to your wown testing images path
+You can change the 'im_dir' to your own testing images path
